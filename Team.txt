@@ -1,2 +1,2 @@
-Leader = Suleyman
+Leader = Suleyman Suleyman
 Staff = ChatGPT
